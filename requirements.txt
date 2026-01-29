@@ -6,7 +6,9 @@ pytz==2025.2
 six==1.17.0
 tzdata==2025.3
 pymongo[srv]==3.11
+scikit-learn
 pymongo
 certifi
 
- -e .
+
+#  -e .
